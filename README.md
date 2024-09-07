@@ -1,5 +1,8 @@
 # TRACE: A Framework to Assist Auditors in Evaluating Regulatory Compliance
 
+Synopsis autocreated by LLM from the paper [here](https://github.com/svidyaraman/TRACE-Framework/blob/main/TRACE-%20A%20Framework%20to%20Assist%20Auditors%20in%20Evaluating%20Regulatory%20Compliance.pdf)
+
+
 ## Authors:
 - Vidyaraman Sankaranarayanan (DeepDive Labs, Singapore)
 - Divya Venkatraman (DeepDive Labs, Singapore)
