@@ -4,6 +4,8 @@
 - Vidyaraman Sankaranarayanan (DeepDive Labs, Singapore)
 - Divya Venkatraman (DeepDive Labs, Singapore)
 
+### Contact Author: vidyaraman@deepdivelabs.tech
+
 ## Abstract:
 The TRACE framework is introduced as a tool to aid auditors and compliance officers in the evaluation of regulatory compliance. The framework provides two main contributions: **Compliance Mapping**, which frames the evaluation problem as a mapping between regulatory, policy, and evidence documents; and **Regulatory Prompting**, a technique derived from Legal Syllogism Prompting, which provides an initial judgement of compliance to assist auditors. TRACE was tested on the Data Protection Trustmark (DPTM) certification requirements published by the Infocomm Media Development Authority (IMDA) in Singapore.
 
